@@ -229,3 +229,6 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
+  - DOMAIN-KEYWORD,mihoyo.com
+  - DOMAIN-KEYWORD,miyoushe.com
+  - DOMAIN-KEYWORD,bing.com/new

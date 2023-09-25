@@ -29,6 +29,9 @@ herokuapp.com
 android.com
 appspot.com
 autodraw.com
+mihoyo.com
+miyoushe.com
+www.bing.com/new
 blogspot.com
 certificate-transparency.org
 chrome.com
